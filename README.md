@@ -1,6 +1,6 @@
 # Hello Serverless
 
-## Getting Started
+## 1. Getting Started
 
 첫 번째 프로젝트를 만들려면 아래 명령어를 실행하고 프롬프트에 따라 진행하세요.
 
