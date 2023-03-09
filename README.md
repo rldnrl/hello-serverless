@@ -80,3 +80,6 @@ serverless logs -f hello
 ```
 serverless remove
 ```
+
+#### 참고
+- [서버리스 문서](https://www.serverless.com/framework/docs)
