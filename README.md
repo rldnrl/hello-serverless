@@ -76,3 +76,7 @@ serverless logs -f hello
 ## Remove your service
 
 서비스를 삭제하려면, `serverless remove` 명령어를 실행합니다. 이 명령어는 프로젝트에서 생성된 모든 AWS 리소스를 삭제하며 예상치 못한 요금이 발생하지 않도록 합니다. 또한, 이 명령어를 실행하면 Serverless 대시보드에서 해당 서비스가 삭제됩니다.
+
+```
+serverless remove
+```
